@@ -9,3 +9,9 @@ My background is in **Data Science (University of Auckland)** with experience in
 ### 1. Chocolate Sales Visualization using Power BI
 
 Repository: [View Project on GitHub](https://github.com/XiaoyiXiong47/Data-Analyst-portfolio-Projects/tree/main/PowerBI-chocolate-sales)
+
+
+### 2. Hackathon - AI Agent for Personal Finance Assistant
+
+AI Agent Repository: [View Project on GitHub](https://github.com/ANZ-Diversity-Hackathon/AWS-Hackathon)
+Demo Website Repo: [View Web Code on GitHub](https://github.com/ANZ-Diversity-Hackathon/Hackathon-web-repo)
