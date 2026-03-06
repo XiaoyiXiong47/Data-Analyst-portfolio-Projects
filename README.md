@@ -8,3 +8,4 @@ My background is in **Data Science (University of Auckland)** with experience in
 
 ### 1. Chocolate Sales Visualization using Power BI
 
+Repository: [View Project on GitHub](https://github.com/XiaoyiXiong47/Data-Analyst-portfolio-Projects/tree/main/PowerBI-chocolate-sales}
